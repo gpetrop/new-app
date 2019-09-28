@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gpetrop/new-app/static/css/main.b100e6da.chunk.css",
+    "main.js": "/gpetrop/new-app/static/js/main.15dd8fc9.chunk.js",
+    "main.js.map": "/gpetrop/new-app/static/js/main.15dd8fc9.chunk.js.map",
+    "runtime-main.js": "/gpetrop/new-app/static/js/runtime-main.7a9b7427.js",
+    "runtime-main.js.map": "/gpetrop/new-app/static/js/runtime-main.7a9b7427.js.map",
+    "static/js/2.1caea5c3.chunk.js": "/gpetrop/new-app/static/js/2.1caea5c3.chunk.js",
+    "static/js/2.1caea5c3.chunk.js.map": "/gpetrop/new-app/static/js/2.1caea5c3.chunk.js.map",
+    "index.html": "/gpetrop/new-app/index.html",
+    "precache-manifest.d47a1df05d16ad574ecf47ee75124961.js": "/gpetrop/new-app/precache-manifest.d47a1df05d16ad574ecf47ee75124961.js",
+    "service-worker.js": "/gpetrop/new-app/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/gpetrop/new-app/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/gpetrop/new-app/static/media/logo.25bf045c.svg"
+  }
+}
